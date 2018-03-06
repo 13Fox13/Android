@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Викторина</string>
+    <string name="question_oceans">Каир - столица Египта</string>
+    <string name="question_mideast">Высота эйфелевой башни 200 метров</string>
+    <string name="question_africa">Гоа - это остров</string>
+    <string name="question_america">Ширина гранд каньона почти 500 км</string>
+    <string name="question_asia">Сингапур - столица государства Сингапур</string>
+    <string name="true_button"> True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Следующий вопрос</string>
+    <string name="correct">Верно!</string>
+    <string name="incorrect">Неверно!</string>
+    <string name="warning">Предупреждение</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="cheat_button">Схитрить</string>
+    <string name="judgment_toast">Читить плохо!</string>
+</resources>
