@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Эффект от цвета</string>
+    <string name="offer">Выберите цвет</string>
+    <string name="result">Результат</string>
+    <string name="effect"></string>
+
+    <string-array name="color_selection" >
+        <item>красный</item>
+        <item>оранжевый</item>
+        <item>желтый</item>
+        <item>зеленый</item>
+        <item>голубой</item>
+        <item>синий</item>
+        <item>фиолетовый</item>
+    </string-array>
+</resources>
