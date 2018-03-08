@@ -1,0 +1,6 @@
+<resources>
+    <string   name = "app_name" > Секундомер</string>
+    <string   name = "res" > Сброс </string>
+    <string   name = "str" > Старт </string>
+    <string   name = "stp" > Стоп </string>
+</resources>

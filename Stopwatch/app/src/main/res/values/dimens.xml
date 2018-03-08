@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">90sp</dimen>
+    <dimen name="layout_marginTop">15dp</dimen>
+    <dimen name="layout_marginEnd">15dp</dimen>
+    <dimen name="layout_marginRight">15dp</dimen>
+    <dimen name="layout_marginLeft">15dp</dimen>
+    <dimen name="layout_marginStart">15dp</dimen>
+</resources>
