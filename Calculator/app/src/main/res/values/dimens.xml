@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_width_result">0dp</dimen>
+    <dimen name="textSizeResult">18sp</dimen>
+    <dimen name="layout_width_operation">0dp</dimen>
+    <dimen name="textSizeOperation">18sp</dimen>
+    <dimen name="padding_main">16dp</dimen>
+    <dimen name="layout_marginTop_number">16dp</dimen>
+    <dimen name="layout_width_7">0dp</dimen>
+</resources>
