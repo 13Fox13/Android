@@ -1,0 +1,15 @@
+Index: diff.xml
+===================================================================
+--- diff.xml	(date 1512312050000)
++++ diff.xml	(date 1512312050000)
+@@ -1,9 +0,0 @@
+-<application>
+-  <component name="DiffSettings">
+-    <option name="PLACES_MAP">
+-      <entry key="ChangesView">
+-        <PlaceSettings />
+-      </entry>
+-    </option>
+-  </component>
+-</application>
+\ No newline at end of file
